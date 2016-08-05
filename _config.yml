@@ -1,0 +1,14 @@
+layout_spectrum: 0.2527815871872008
+typography_spectrum: 0.7497661164961755
+color:
+  brandStrength: 0.16768071008846164
+  lightness: 0.45563004934228957
+  saturation: 0.008904691087082028
+  rhythmicContrast: 0.5179608396720141
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+name: known siam
